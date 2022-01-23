@@ -5,6 +5,7 @@ Do not just copy this EFI and expect it to work.
 Setup
 -
 This EFI is setup for debugging, it uses the debug version of OpenCore, and has logging/verbose enabled.
+DO NOTE THAT I STILL DIDN'T DO THE USB PORTMAP SO, no big sus for u!!>>!>!>
 
 Create USB Installer
 -
